@@ -1,5 +1,5 @@
 {
- "name": "La Procrastinacion",
+ "name": "LaProcrastinacion",
  "lang": "es-MX",
     "short_name": "PosponerEjemplo",
     "description": "Este es un ejemplo simple de una PWA",
@@ -12,7 +12,7 @@
  "icons": [
   {
    "src": "\/img/android-icon-32x32.png",
-   "sizes": "36x36",
+   "sizes": "32x32",
    "type": "image\/png",
    "density": "0.75"
   },
