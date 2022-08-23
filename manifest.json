@@ -11,19 +11,19 @@
     "orientation": "any",
     "icons": [
      {
-      "src": "\/img/android-icon-32x32.png",
+      "src": "\/AWP_posponer/img/android-icon-32x32.png",
       "sizes": "32x32",
       "type": "image\/png",
       "density": "0.75"
      },
      {
-      "src": "\/img/android-icon-96x96.png",
+      "src": "\/AWP_posponer/img/android-icon-96x96.png",
       "sizes": "96x96",
       "type": "image\/png",
       "density": "2.0"
      },
      {
-      "src": "\/img/android-icon-144x144.png",
+      "src": "\/AWP_posponer/img/android-icon-144x144.png",
       "sizes": "144x144",
       "type": "image\/png",
       "density": "3.0"
